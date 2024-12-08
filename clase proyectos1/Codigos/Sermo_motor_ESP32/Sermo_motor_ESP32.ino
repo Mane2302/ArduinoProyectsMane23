@@ -1,4 +1,4 @@
-#include <Servo.h>
+#include <ESP32Servo.h>
 
 Servo myservo;  // Crea un objeto servo para controlar un servo, puede llegar a ocho
 int pos = 0;    // variable para almacenar la posición del servo
