@@ -4,7 +4,7 @@ Servo myservo;  // Crea un objeto servo para controlar un servo, puede llegar a 
 int pos = 0;    // variable para almacenar la posición del servo
 
 void setup() {
-  myservo.attach(9);  // conecta el servo en el pin 9 al objeto servo
+  myservo.attach(9);  // conecta el servo en el pin 9 del arduino al objeto servo
 }
 
 void loop() {
