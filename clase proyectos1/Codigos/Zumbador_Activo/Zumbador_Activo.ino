@@ -1,4 +1,5 @@
-int buzzer = 8;//el pin del zumbador activo
+//int buzzer = 8;//el pin 8 del zumbador activo arduino
+//int buzzer = 15;//el pin d15 del zumbador activo esp32
 void setup()
 {
   pinMode(buzzer,OUTPUT);//Inicializa el pin del zumbador como una salida
