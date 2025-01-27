@@ -1,3 +1,0 @@
-Extraer el controlador USB CP2102
-Seleccione silabser.inf
-Haga clic con el botón derecho del mouse e Instalar
