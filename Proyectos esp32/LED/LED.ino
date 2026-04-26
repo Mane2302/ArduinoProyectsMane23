@@ -15,4 +15,20 @@ void loop() {
   digitalWrite(pin_dos, LOW);
   //Esperamos un segundo
   delay(1000);
+
+    //Encendemos el led
+  digitalWrite(pin_dos, HIGH);
+  //Esperamos un segundo
+  delay(1000);
+  //Apagamos el led
+  digitalWrite(pin_dos, LOW);
+  //Esperamos un segundo
+  delay(1000);  //Encendemos el led
+  digitalWrite(pin_dos, HIGH);
+  //Esperamos un segundo
+  delay(1000);
+  //Apagamos el led
+  digitalWrite(pin_dos, LOW);
+  //Esperamos un segundo
+  delay(1000);
 }
